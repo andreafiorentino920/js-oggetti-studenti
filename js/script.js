@@ -8,11 +8,6 @@ Dare la possibilità all’utente, attraverso 3 prompt(), di aggiungere un nuovo
 */
 
 /**
-* FUNZIONI
-*/
-
-
-/**
  * PROGRAMMA PRINCIPALE
  */
 var studente = [
